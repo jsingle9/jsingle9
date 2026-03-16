@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there   
 I'm Justin!  I dreamed of working on code for a living at one time I find it quite fulfilling to write, but I decided later that teaching Math was the right fit.
 I'm here to have fun as a hobby.  I think I have some fun projects to work on. Nothing serious or impressive mind you!
+Right now, I'm indulging my gamer side by building a tactical RPG engine!  I don't think it will be anything impressive, but I sure will have fun trying to build it!
+
 <!--
 **jsingle9/jsingle9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
